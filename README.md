@@ -20,6 +20,14 @@ healthcare insurance providers to make a variety of strategic and tactical decis
 The objective of this project is to predict patients’ healthcare costs and to identify factors contributing to this prediction. It will also be useful to learn the interdependencies of different factors and comprehend the significance of various tools at various stages of
 the healthcare cost prediction process.
 
+# SQL Analysis
+Data Merging: Merge the data tables using appropriate keys and constraints.
+SQL Queries:
+Retrieve information about people who are diabetic and have heart problems, along with their average age, number of dependent children, BMI, and hospitalization costs.
+Find the average hospitalization cost for each hospital tier and city level.
+Determine the number of people who have had major surgery with a history of cancer.
+Count the number of tier-1 hospitals in each state.
+
 # Tasks of Project
 # 1: Data Science Tasks
 1. Data Collection and Preparation
@@ -47,7 +55,7 @@ Smoking and heart issues are independent.
 5. Correlation Analysis
 Correlation Matrix: Use a heatmap to visualize the correlation between predictors.
 
-# 2: Machine Learning and SQL Tasks
+# 2: Machine Learning
 
 1. Regression Model Development
 Develop Models:
@@ -58,13 +66,6 @@ Use sklearn-pipelines to streamline the workflow.
 Develop a Gradient Boosting model and determine variable importance scores.
 2. Cost Prediction Scenario
 Case Study: Estimate hospitalization costs for a specific patient (Ms. Jayna) using the developed models.
-3. SQL Analysis
-Data Merging: Merge the data tables using appropriate keys and constraints.
-SQL Queries:
-Retrieve information about people who are diabetic and have heart problems, along with their average age, number of dependent children, BMI, and hospitalization costs.
-Find the average hospitalization cost for each hospital tier and city level.
-Determine the number of people who have had major surgery with a history of cancer.
-Count the number of tier-1 hospitals in each state.
 
 
 # 3: Tableau Dashboard
