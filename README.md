@@ -21,7 +21,7 @@ The objective of this project is to predict patients’ healthcare costs and to 
 the healthcare cost prediction process.
 
 # Tasks of Project
-Week 1: Data Science Tasks
+# 1: Data Science Tasks
 1. Data Collection and Preparation
 Collate the files: Merge the Hospitalization details.xlsx, Medical Examinations.xlsx, and Names.xlsx datasets.
 Check for missing values: Identify and handle missing values appropriately.
@@ -46,7 +46,9 @@ The average hospitalization cost for smokers is not significantly different from
 Smoking and heart issues are independent.
 5. Correlation Analysis
 Correlation Matrix: Use a heatmap to visualize the correlation between predictors.
-Week 2: Machine Learning and SQL Tasks
+
+# 2: Machine Learning and SQL Tasks
+
 1. Regression Model Development
 Develop Models:
 Linear Regression or Ridge Regression with k-fold cross-validation.
@@ -63,36 +65,8 @@ Retrieve information about people who are diabetic and have heart problems, alon
 Find the average hospitalization cost for each hospital tier and city level.
 Determine the number of people who have had major surgery with a history of cancer.
 Count the number of tier-1 hospitals in each state.
-Week 2: Tableau Dashboard
+
+
+# 3: Tableau Dashboard
 Dashboard Creation: Create a dashboard in Tableau focusing on data storytelling, using appropriate chart types and business metrics.
-Implementation Plan
-Data Preparation:
-
-Load the datasets.
-Merge them into a single dataframe.
-Handle missing values and clean the data.
-Feature Engineering:
-
-Create new features like age and gender.
-Transform categorical variables as needed.
-Exploratory Data Analysis (EDA):
-
-Visualize data distributions.
-Analyze distributions across different segments (gender, hospital tier, etc.).
-Hypothesis Testing:
-
-Perform statistical tests to validate the hypotheses.
-Model Development:
-
-Train and validate regression models.
-Tune hyperparameters and standardize data.
-Evaluate models using k-fold cross-validation.
-Predictive Analysis:
-
-Predict hospitalization costs for the case study.
-SQL Analysis:
-
-Execute SQL queries to extract and analyze relevant data.
-Dashboard Development:
-
 Build a Tableau dashboard to present key insights and visualizations.
