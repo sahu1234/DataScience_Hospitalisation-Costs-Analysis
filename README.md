@@ -1,4 +1,15 @@
 # DataScience_Hospitalisation-Costs-Analysis
+![Hospitalization Costs Analysis](https://github.com/user-attachments/assets/5c062e9e-6abb-43a9-8a20-ac9e1d1fb390)
+
+![Hospitalization Costs Analysis (1)](https://github.com/user-attachments/assets/7ed6dfc6-069b-4c51-abe8-b500f5b62aba)
+
+![Hospitalization Costs Analysis](https://github.com/user-attachments/assets/71f10fd1-2a84-4b24-b0c4-7d66a3b97b2c)
+
+# Kaggle Link : 
+https://www.kaggle.com/code/sahilnbajaj/healthcare-cost-prediction-regression-analysis
+
+# Tableau Link : https://public.tableau.com/app/profile/sahil.bajaj5153/viz/Healthcare_Analysis_17232202178470/HospitalizationCostsAnalysis
+
 # Problem Statement : 
 A significant public health concern is the rising cost of healthcare. Therefore, it's crucial to be able to predict future costs and gain a solid understanding of their causes. The
 insurance industry must also take this analysis seriously. This analysis may be used by
